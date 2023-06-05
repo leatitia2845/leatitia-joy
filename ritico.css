@@ -1,0 +1,32 @@
+body{
+	background-color: #90C94F;
+}
+.f{
+position: absolute;
+width: 403px;
+height: 408px;
+left: 500px;
+top: 200px;
+border-radius: 50%;
+}
+h1{
+	text-align: center;
+	color: #ffffff;
+}
+.btnn{
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 92px;
+left: 483.5px;
+top: 640px;
+font-size: 40px;
+background: #FFFFFF;
+border: 16px solid #0D327D;
+border-radius: 36px;
+}
+a{
+	text-decoration: none;
+	color: #90C94F;
+}

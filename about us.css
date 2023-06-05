@@ -1,0 +1,59 @@
+.header{
+    padding: 10px;
+    background-color: #4067B8;
+}
+.ico{
+    margin-left: 1050px;
+    color: #ffffff;
+}
+.logo{
+position: absolute;
+width: 130px;
+height: 72px;
+left: 0px;
+top: 49px;
+}
+ul li{
+    display: inline-block;
+    margin: 20px;
+    margin-left: 90px;
+}
+ul li a{
+    color: #4067B8;
+    text-decoration: none;
+}
+
+
+
+#para{
+    position: absolute;
+    top: 692px;
+    left: 600px;
+    font-size: 20px;
+    margin-right: 146px;
+    right: 110px;
+    left: 30px;
+    }
+p{
+    font-size: 20px;
+    margin-right: 399px;
+    left: 31px;
+}
+.img1{
+    margin-left: 652px;
+    border-radius: 7px;
+}
+.img2{
+    margin-top: 66px;
+    border-radius: 7px;
+}
+.link23{
+    text-decoration: none;
+    color: black;
+    border-radius: 20px;
+}
+button{
+    /* height: 20px;
+    width: 40px; */
+    background: #4067B8;
+}

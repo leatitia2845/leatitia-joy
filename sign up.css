@@ -1,0 +1,37 @@
+body{
+    background-color: #90C94F;
+}
+fieldset{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    font-size: x-large;
+    border-radius: 20px;
+    border: 0px;
+}
+.joy{
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 45px;
+    border: 1px solid black;
+}
+
+span{
+    font-size: 29px;
+}
+#sign{
+    position: fixed;
+    width: 107px;
+    height: 52px;
+    left: 160px;
+    top: 390px;
+    color: #ffffff;
+    font-size: 23px;
+    background: #90C94F;
+    border-radius: 16px;
+    border: #ffffff;
+}
